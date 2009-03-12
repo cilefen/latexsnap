@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("LaTeXSnap")> 
-<Assembly: AssemblyDescription("LaTeXSnap is licensed under a Creative Commons Attribution-Share Alike License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/us/ or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, USA.")> 
-<Assembly: AssemblyCompany("")> 
+<Assembly: AssemblyDescription("http://code.google.com/p/latexsnap/")> 
+<Assembly: AssemblyCompany("Chris McCafferty")> 
 <Assembly: AssemblyProduct("LaTeXSnap")> 
-<Assembly: AssemblyCopyright("Copyright ©  2008 Chris McCafferty")> 
+<Assembly: AssemblyCopyright("Copyright ©  2008-2009 Chris McCafferty")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.0.0.1")> 
-<Assembly: AssemblyFileVersion("1.0.0.1")> 
+<Assembly: AssemblyVersion("1.0.0.4")> 
+<Assembly: AssemblyFileVersion("1.0.0.4")> 

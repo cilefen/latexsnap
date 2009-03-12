@@ -86,10 +86,14 @@
     End Sub
 
     Private Sub AboutToolStripMenuItem1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles AboutToolStripMenuItem1.Click
-        System.Diagnostics.Process.Start("http://www.sns.ias.edu/~cjm/latexsnap/")
+        System.Diagnostics.Process.Start("http://code.google.com/p/latexsnap/")
     End Sub
 
     Private Sub AboutToolStripMenuItem2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles AboutToolStripMenuItem2.Click
         AboutBox1.Show()
+    End Sub
+
+    Private Sub MenuStrip1_ItemClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.ToolStripItemClickedEventArgs) Handles MenuStrip1.ItemClicked
+
     End Sub
 End Class
