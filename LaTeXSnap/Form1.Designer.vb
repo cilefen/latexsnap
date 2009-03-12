@@ -127,7 +127,7 @@ Partial Class Form1
         'ExitToolStripMenuItem
         '
         Me.ExitToolStripMenuItem.Name = "ExitToolStripMenuItem"
-        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(103, 22)
         Me.ExitToolStripMenuItem.Text = "Exit"
         '
         'AboutToolStripMenuItem
@@ -140,13 +140,13 @@ Partial Class Form1
         'AboutToolStripMenuItem1
         '
         Me.AboutToolStripMenuItem1.Name = "AboutToolStripMenuItem1"
-        Me.AboutToolStripMenuItem1.Size = New System.Drawing.Size(181, 22)
+        Me.AboutToolStripMenuItem1.Size = New System.Drawing.Size(192, 22)
         Me.AboutToolStripMenuItem1.Text = "LaTeXSnap Homepage"
         '
         'AboutToolStripMenuItem2
         '
         Me.AboutToolStripMenuItem2.Name = "AboutToolStripMenuItem2"
-        Me.AboutToolStripMenuItem2.Size = New System.Drawing.Size(181, 22)
+        Me.AboutToolStripMenuItem2.Size = New System.Drawing.Size(192, 22)
         Me.AboutToolStripMenuItem2.Text = "About"
         '
         'Form1
